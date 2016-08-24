@@ -1,5 +1,7 @@
-/** Sketch di arduino per modificare il plastico del Fablab Roma Makers */
-/* Codice modificato da Leonardo Zaccone */
+/** Sketch di arduino per modificare il plastico del Fablab Roma Makers
+* Il codice qui sotto è stato riscritto da Leonardo Zaccone e modificato rispetto all'originale
+* di Shae Erisson.
+*/
 
 // NeoPixel Ring simple sketch (c) 2013 Shae Erisson
 // released under the GPLv3 license to match the rest of the AdaFruit NeoPixel library
